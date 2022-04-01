@@ -5,7 +5,7 @@ const Cart = (props) => {
     return (
       <div>
         <h2>this is order</h2>
-        <p>Selected item:{length}</p>
+        <p>Selected Item:{length}</p>
       </div>
     );
 };
