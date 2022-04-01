@@ -1,0 +1,25 @@
+
+.navigation-logo{
+    height: 80px;
+    background-color: darkblue;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    
+}
+.nav-list {
+    text-align: center;
+    margin-top: 20px;
+
+}
+.nav-image{
+    margin-left: 140px;
+    margin-top: 20px;
+}
+.nav-list a{
+    color: white;
+    margin-left: 50px;
+    text-decoration: none;
+}
+.nav-list a:hover{
+   color: rgb(194, 186, 74);
+}
